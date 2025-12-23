@@ -32,7 +32,7 @@ export function Popup() {
     <div className="p-4">
       <h1 className="text-base font-semibold mb-1">3x Speed Boost</h1>
       <p className="text-xs text-muted-foreground mb-4">
-        Break YouTube's 2x limit.
+        More speed options for YouTube.
       </p>
       <select
         value={speed}
